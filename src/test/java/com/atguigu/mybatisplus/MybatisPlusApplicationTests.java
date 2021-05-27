@@ -60,5 +60,6 @@ class MybatisPlusApplicationTests {
         System.out.println("搞定了123！");
         System.out.println("搞定了123456！");
         System.out.println("master！");
+        System.out.println("hot-fix！");
     }
 }
