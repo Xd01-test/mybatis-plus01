@@ -57,5 +57,6 @@ class MybatisPlusApplicationTests {
         List<User> users = userMapper.selectList(queryWrapper);
         users.forEach(System.out::println);
         System.out.println("搞定了！");
+        System.out.println("搞定了123！");
     }
 }
