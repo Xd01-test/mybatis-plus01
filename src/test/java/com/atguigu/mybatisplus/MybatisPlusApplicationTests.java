@@ -58,5 +58,6 @@ class MybatisPlusApplicationTests {
         users.forEach(System.out::println);
         System.out.println("搞定了！");
         System.out.println("搞定了123！");
+        System.out.println("搞定了123456！");
     }
 }
